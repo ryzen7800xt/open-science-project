@@ -1,0 +1,41 @@
+.main-text-1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  text-align: center;
+  line-height: 1.6;
+  letter-spacing: -0.01em;
+}
+.question {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  text-align: center;
+  line-height: 1.6;
+  letter-spacing: -0.01em;
+}
+.big-title {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  text-align: center;
+  font-size: 3.5rem;
+  letter-spacing: -0.01em;
+}
+.title {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 1.6;
+    letter-spacing: -0.01em;
+}
+.quiz { 
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; 
+  background-color: #007bff; 
+  color: white; 
+  border: none; 
+  padding: 10px 20px; 
+  text-decoration: none; 
+  font-size: 16px; 
+  cursor: pointer; 
+  text-align: center;
+  display: table;   
+  margin: 4px auto;  
+}
+body {
+   background: linear-gradient(45deg, #f12711, #f5af19);
+}
